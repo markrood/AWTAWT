@@ -8,6 +8,7 @@ class Ato{
         int ato();
     private:
         bool firstTime = true;
+        unsigned long startTime = 0;
         
 
 };
